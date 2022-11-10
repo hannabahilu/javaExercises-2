@@ -33,7 +33,7 @@ public class Ex1BMI {
 
     detta är ett java program
         // --- Input ---------
-
+// hej jag heter agnes
 
         // --- Process --------
 
