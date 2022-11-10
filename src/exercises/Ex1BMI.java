@@ -31,7 +31,7 @@ public class Ex1BMI {
     void program() {
         // Write your code here
 
-
+    detta är ett java program
         // --- Input ---------
 
 
